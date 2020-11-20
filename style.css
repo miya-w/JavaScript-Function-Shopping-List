@@ -1,0 +1,20 @@
+
+.shoppingListBox{
+    
+    margin: auto;
+    padding: 50px;
+    width: 300px;
+    
+    border-color: grey;
+    border-style: solid;
+    background-color:#f7f7ed;
+
+    text-align: center;
+
+     }
+
+
+
+.shoppingList{
+    text-align: left;
+}
